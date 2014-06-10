@@ -62,3 +62,5 @@ gem 'foundation-rails'
 # Use Devise authentication
 gem 'devise'
 
+gem 'simple_form'
+
